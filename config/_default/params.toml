@@ -1,6 +1,6 @@
-logoText = "Zzo"
-logoType = "short" # long, short
-description = "The Zzo theme for Hugo example site."
+logoText = "Eagle"
+logoType = "long" # long, short
+description = "Day la description linh tinh"
 custom_css = []
 custom_js = []
 useFaviconGenerator = true # https://www.favicon-generator.org/
@@ -42,13 +42,13 @@ talksGroupByDate = "2006"
 pubPaginate = 20
 
 # whoami
-myname = "zzossig"
-email = "zzossig@gmail.com"
-whoami = "Web Developer"
+myname = "Vu Minh QUang"
+email = "quang@gmail.com"
+whoami = "Big Data Developer"
 bioImageUrl = ""
 useGravatar = false
-location = "Seoul, Korea"
-organization = "Hugo"
+location = "Hanoi, Korea"
+organization = "Viettel"
 link = "https://zzossig.io/ko"
 
 # sidebar

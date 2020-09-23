@@ -1,5 +1,5 @@
 baseURL = "http://example.org"
-title = "Hugo Zzo Theme"
+title = "Eagle Blog"
 theme = "zzo"
 
 defaultContentLanguage = "en"
@@ -16,7 +16,7 @@ paginate = 13
 rssLimit = 100
 
 enableGitInfo = false
-googleAnalytics = ""
+googleAnalytics = "UA-178786863-1"
 
 [markup]
   [markup.goldmark]
